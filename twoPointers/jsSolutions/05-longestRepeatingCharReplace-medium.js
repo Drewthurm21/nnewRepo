@@ -32,5 +32,3 @@ Constraints:
 s consists of only uppercase English letters.
 0 <= k <= s.length
 */
-
-//code here
